@@ -1,5 +1,7 @@
 # Outbound OS
 
+> **👉 New here?** Download this folder — the green **Code** button → **Download ZIP** (or [grab the zip directly](https://github.com/corebits-io/outbound-os/archive/refs/heads/main.zip)) — unzip it, then open **`SETUP.md`**. It runs inside Claude Code; bring your own API keys.
+
 A complete cold-outreach system that runs inside **Claude Code** (the version of Claude that lives in your terminal and can read, write, and run files on your computer).
 
 Instead of bouncing between Clay, enrichment tools, and spreadsheets, the whole campaign lives in **one folder**. You fill in a few files describing the offer, and Claude Code does the rest: finds accounts, picks the right person, researches them, finds their contact info, writes the sequence, pushes it into your email tool, and checks back later to improve it.
