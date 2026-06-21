@@ -1,0 +1,15 @@
+company,domain,why_fit,fit_score,industry,size_estimate,signal,source_url,status
+FlowMetrics,flowmetrics.io,"PLG product-analytics SaaS scaling CS by hand; clear activation pain",5,Product analytics SaaS,~120 employees,"Hiring 3 Customer Success Managers",https://flowmetrics.io/careers,qualified
+Stackwell,stackwell.com,"Just raised Series B; user growth about to spike and onboarding will strain",5,DevOps SaaS,~200 employees,"Series B $40M announced May 2026",https://stackwell.com/blog/series-b,qualified
+Cartwheel,cartwheel.app,"Building a CS function from scratch; hiring its first VP CS",5,E-commerce SaaS,~90 employees,"Hiring VP Customer Success",https://cartwheel.app/careers,qualified
+Northwind Cloud,northwindcloud.com,"Open roles for Onboarding Manager + CSM signal clear activation pain",5,Cloud infra SaaS,~250 employees,"Hiring Onboarding Manager and CSM",https://northwindcloud.com/jobs,qualified
+Nimbus Desk,nimbusdesk.com,"PLG helpdesk; public G2 reviews cite slow setup/activation",4,Helpdesk SaaS,~110 employees,"G2 reviews mention slow activation",https://nimbusdesk.com,qualified
+Brightloop,brightloop.io,"Just launched a self-serve trial; new motion will surface onboarding gaps",4,Marketing SaaS,~85 employees,"Launched self-serve trial Q2 2026",https://brightloop.io/blog/self-serve,qualified
+Ledgerly,ledgerly.io,"Scaling self-serve fintech; mid-size with an existing CS team",4,Fintech SaaS,~300 employees,"Expanding self-serve plan",https://ledgerly.io/pricing,qualified
+Meridian Labs,meridianlabs.io,"PLG data SaaS; smaller, so product owns activation",4,Data SaaS,~60 employees,"PLG motion; hiring a Product lead",https://meridianlabs.io/careers,qualified
+Tempo,tempohq.com,"Freemium scheduling; high signups but low activation noted publicly",4,Scheduling SaaS,~70 employees,"Freemium with an activation gap",https://tempohq.com,qualified
+Pixelware,pixelware.io,"Freemium design SaaS on a PLG motion",4,Design SaaS,~100 employees,"Freemium PLG motion",https://pixelware.io,qualified
+Northstar Billing,northstarbilling.com,"Mid-size hybrid SaaS actively hiring a CSM",4,Billing SaaS,~180 employees,"Hiring Customer Success Manager",https://northstarbilling.com/careers,qualified
+Verdant CRM,verdantcrm.com,"Mid-size CRM; publicly revamping onboarding",4,CRM SaaS,~220 employees,"Blogged about an onboarding revamp",https://verdantcrm.com/blog/onboarding,qualified
+Hearth,hearth.io,"Proptech SaaS but mostly sales-led; weaker self-serve motion",3,Proptech SaaS,~130 employees,"Series A to B, mostly sales-led",https://hearth.io/about,qualified
+Quill,quill.so,"Borderline: only ~45 staff, likely no CS budget; kept for user review",2,Content SaaS,~45 employees,"Small team, no CS roles posted",https://quill.so,qualified

@@ -1,0 +1,25 @@
+# --- Secrets: never share or commit ---
+.env
+.env.*
+!.env.example
+
+# --- Real campaign data: share only the template + the worked example ---
+campaigns/*
+!campaigns/_TEMPLATE
+!campaigns/_EXAMPLE
+
+# --- Your filled sending-infra notes can contain real domains: keep private ---
+# (The file ships as a blank template; once you fill it, don't push it to a public repo.)
+# Uncomment the next line before making a repo public if you've filled it in:
+# reference/infrastructure.md
+
+# --- OS / editor noise ---
+.DS_Store
+**/.DS_Store
+.vscode/
+
+# --- Node (only if you later add scripts) ---
+node_modules/
+
+# --- Share artifacts ---
+outbound-os-starter.zip
