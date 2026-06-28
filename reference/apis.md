@@ -12,6 +12,7 @@ All keys live in `.env`. Never print full keys. Use the env var names shown.
 - **Run an actor + get results in one call:** `POST https://api.apify.com/v2/acts/<actor-id>/run-sync-get-dataset-items?token=<APIFY_API_TOKEN>` with the actor's input JSON in the body → returns the dataset items directly.
 - **YC sourcing:** use a YC directory actor (e.g., `clearpath/ycombinator-api-scraper`) filtered to batch / industry / region. **Free alternative:** YC's public **Algolia** index behind ycombinator.com/companies (same data the site's filters use) — no token needed.
 - **Note:** most actors are pay-per-result (~$3.50/1k on common YC actors). Confirm the current actor id + input schema on its Apify page before running.
+- **Cost control (verified 2026-06):** some YC actors scrape the *whole* directory and **ignore `maxItems`** — always pass the run param **`maxTotalChargeUsd`** to hard-cap spend (e.g. `…/run-sync-get-dataset-items?token=…&maxTotalChargeUsd=1`). A capped test run returned 100 companies for **$0.35**. For just a handful of targeted results, the free YC Algolia index is cheaper than any actor.
 
 ---
 
