@@ -1,12 +1,9 @@
-email,first_name,last_name,company,problem
-,Nishant,Hooda,Docket,flaky tests
-,David,Mlcoch,Asteroid,repetitive browser ops work
-,Jeffrey,Ip,Confident AI,shipping LLM features without real evals
-,Catherine,Jue,Kernel,running browsers for AI agents
-,Mateo,Perez,Jazzberry,bugs slipping through code review
-,Jackson,Stokes,TrainLoop,unreliable LLM outputs
-,Jerry,Zhang,Lemma,agents silently degrading in production
-,Samai,Patel,Axal,manual order processing
-,Alex,Tkachenko,Fira,slow manual financial research
-,Eylon,Miz,Flowtel,front-desk call overload
-,Christopher,Settles,Operative,unverified AI-written code
+email,first_name,last_name,company,trigger,problem
+,Jeffrey,Ip,Confident AI,Saw DeepEval crossed 10k stars,shipping LLM features without real evals
+,David,Mlcoch,Asteroid,Saw Asteroid's browser-agent platform (YC W25),repetitive browser ops work
+,Catherine,Jue,Kernel,Saw Kernel raised $22M from Accel,running browsers for AI agents
+,Jackson,Stokes,TrainLoop,Saw TrainLoop's RL fine-tuning work (YC W25),unreliable LLM outputs
+,Alex,Tkachenko,Fira,Saw Fira's agentic financial research (YC W25),slow manual financial research
+,Nishant,Hooda,Docket,Saw Docket's self-healing test agents,flaky tests
+,Jerry,Zhang,Lemma,Saw Lemma on agent monitoring (YC F25),agents silently degrading in production
+,Samai,Patel,Axal,Saw Axal automating order processing for manufacturers,manual order processing

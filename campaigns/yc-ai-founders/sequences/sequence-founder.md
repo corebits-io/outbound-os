@@ -1,46 +1,46 @@
-# Sequence — YC AI Founders (founder-to-founder)
+# Sequence — YC AI Founders (the operator's voice)
 
-> Should read like one founder emailing another — short, specific, no template-isms, very low friction. `{{ }}` map to `custom-fields.md` / `leads-upload.csv`.
-> Cadence: Email 1 Day 0 · Email 2 Day 3 · Email 3 Day 7.
+> Plain, short, proof-driven — matches `knowledge-base/my-voice.md`. `{{trigger}}` is a **real, specific observation** per founder (from `find-signals`), not a generic category. Cadence: Day 0 / 3 / 7.
 
 ---
 
 ## Email 1 — Day 0
-**Subject:** a list for {{company}}
+**Subject:** a list for {{companyName}}
 
-Hey {{first_name}},
+Hi {{firstName}},
 
-I'm a founder too, so I'll keep this short. I only reached out because {{company}} clearly has an audience worth going after — people are already posting about {{problem}}.
+{{trigger}} — figured this might be relevant.
 
-Here's what I do: I hand founders one list — the companies that fit your ICP, the decision-makers at each (enriched), plus the people already talking about {{problem}} on Reddit and LinkedIn. YC drills it into you — go talk to your users. This just hands you exactly who they are.
+I build founders their whole market as one list: the companies that fit your ICP, the decision-makers at each, enriched, plus the people already posting about {{problem}} on Reddit and LinkedIn. Done it for a $1.2B unicorn and a couple of YC companies.
 
-Want me to pull together 20–30 that fit {{company}} so you can see it? Reply here and I'll send them over — no strings.
+Want me to pull 20–30 that fit {{companyName}} so you can see the quality?
 
 — {{sender_name}}
 
-{{sender_address}}
-Reply "unsubscribe" to opt out.
+{{sender_address}} · reply "unsubscribe" to opt out
 
 ---
 
 ## Email 2 — Day 3 (same thread)
 **Subject:** (empty — threads under Email 1)
 
-{{first_name}} — just reply "yes" and I'll send the 20–30 over so you can judge the quality yourself. If it's useful, I'll drop you a LinkedIn request and we can talk there. Zero pressure either way.
+Hi {{firstName}},
+
+Adding to my last note — this isn't a scraped list. It's the right person at each company, enriched, plus the people already talking about {{problem}} online.
+
+Want me to send 20–30 over so you can judge the quality? Just reply.
 
 — {{sender_name}}
-
-{{sender_address}}
-Reply "unsubscribe" to opt out.
 
 ---
 
-## Email 3 — Day 7 (easy out)
+## Email 3 — Day 7 (same thread)
 **Subject:** (empty — threads under Email 1)
 
-{{first_name}} — I'll leave it here. If you ever want your market mapped, just say the word and I'll put it together. Either way, good luck with {{company}}.
+Hi {{firstName}},
+
+One more before I move on. If mapping your market is something you'd want later, just say the word and I'll put it together.
+
+Either way, good luck with {{companyName}}.
 
 — {{sender_name}}
-
-{{sender_address}}
-Reply "unsubscribe" to opt out.

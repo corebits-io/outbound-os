@@ -15,4 +15,6 @@ Give every qualified account a specific, true trigger/angle to anchor the copy.
 - Recent funding, hiring (which roles), new product/launch, leadership change, press, expansion, tech-stack changes, public reviews/complaints.
 - **Audience signal (for the founder demo offer):** does the product have a findable, engaged audience posting about its problem on LinkedIn/Reddit? If yes — strong fit *and* a copy hook.
 
+**Make it a TRIGGER, not a category.** The signal must be specific enough to be the email's *first line* and could only apply to this one company — "saw DeepEval crossed 10k stars," not "is an AI company." Generic signals = generic, AI-sounding copy (see `knowledge-base/copywriting.md`).
+
 **Rule:** only verifiable signals, with a source. Mark uncertain ones `likely`/`guess`. No invented "saw your post."
