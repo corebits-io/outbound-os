@@ -27,6 +27,6 @@
                                                    repeat
 ```
 
-**Each stage = one playbook in `playbooks/`. Run in order, checkpoint with the user, don't skip.**
+**Each stage = a skill in `.claude/skills/` (type `/` to run it) backed by a playbook in `playbooks/`. Run in order, checkpoint with the user, don't skip.**
 
 The loop at the end (stage 7 → tweak → stage 5/6 again) is what makes it ever-improving: the system sees what isn't working and changes the copy, persona, or targeting one variable at a time.

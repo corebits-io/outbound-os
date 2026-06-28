@@ -1,0 +1,12 @@
+email,first_name,last_name,company,problem
+,Nishant,Hooda,Docket,flaky tests
+,David,Mlcoch,Asteroid,repetitive browser ops work
+,Jeffrey,Ip,Confident AI,shipping LLM features without real evals
+,Catherine,Jue,Kernel,running browsers for AI agents
+,Mateo,Perez,Jazzberry,bugs slipping through code review
+,Jackson,Stokes,TrainLoop,unreliable LLM outputs
+,Jerry,Zhang,Lemma,agents silently degrading in production
+,Samai,Patel,Axal,manual order processing
+,Alex,Tkachenko,Fira,slow manual financial research
+,Eylon,Miz,Flowtel,front-desk call overload
+,Christopher,Settles,Operative,unverified AI-written code

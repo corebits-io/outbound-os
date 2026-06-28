@@ -1,0 +1,13 @@
+company,domain,first_name,last_name,title,why_this_person,linkedin_url,email,email_confidence,phone,phone_source,enrichment_source,status
+Docket,docketqa.com,Nishant,Hooda,Founder & CEO,"At YC stage the founder owns GTM + the list; ex-Stripe/Brex so he values clean data",https://www.linkedin.com/in/nishant-h/,,,,,,person_picked
+Asteroid,asteroid.ai,David,Mlcoch,Co-Founder & CEO,"Founder-led seed; owns the buying decision",https://www.linkedin.com/in/davidmlcoch/,,,,,,person_picked
+Confident AI,confident-ai.com,Jeffrey,Ip,CEO & Co-Founder,"Creator of DeepEval - he IS the audience-owner; founder-led",https://www.linkedin.com/in/jeffreyipp/,,,,,,person_picked
+Kernel,kernel.sh,Catherine,Jue,Co-Founder & CEO,"Founder-CEO ex-Cash App; just raised $22M, scaling GTM",https://www.linkedin.com/in/juecd,,,,,,person_picked
+Jazzberry,jazzberry.ai,Mateo,Perez,Founder & CEO,"Founder-led. FLAG: LinkedIn unconfirmed - verify before contact",,,,,,,person_picked
+TrainLoop,trainloop.ai,Jackson,Stokes,Co-Founder & CEO,"Founder ex-Google Gemini; owns GTM",https://www.linkedin.com/in/jacksonstokes,,,,,,person_picked
+Lemma,uselemma.ai,Jerry,Zhang,Co-Founder,"Founder-led seed; owns GTM",https://ca.linkedin.com/in/jerry-n-zhang,,,,,,person_picked
+Axal,axal.ai,Samai,Patel,Co-Founder,"Founder posts regularly (engaged audience); owns GTM",https://www.linkedin.com/in/samaipatel/,,,,,,person_picked
+Fira,firaresearch.com,Alex,Tkachenko,Founder & CEO,"Founder-CEO; finance-AI, adjacent to the capital space",https://www.linkedin.com/in/alextcn/,,,,,,person_picked
+Flowtel,flowtel.ai,Eylon,Miz,Co-Founder & CEO,"Founder-led; owns GTM. Lower fit (audience less online)",https://www.linkedin.com/in/eylonmiz/,,,,,,person_picked
+Operative,operative.sh,Christopher,Settles,Co-Founder & CEO,"Founder-led. FLAG: brand pivot to 'Refresh' - verify before contact",https://www.linkedin.com/in/christopher-settles,,,,,,person_picked
+FuseAI,tryfuse.ai,Saurav,Bubber,Co-Founder & CEO,"DO NOT CONTACT - same space (outbound AI), competitor-adjacent",https://www.linkedin.com/in/sauravbubber/,,,,,,do_not_contact

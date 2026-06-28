@@ -7,6 +7,7 @@
 campaigns/*
 !campaigns/_TEMPLATE
 !campaigns/_EXAMPLE
+!campaigns/yc-ai-founders
 
 # --- Your filled sending-infra notes can contain real domains: keep private ---
 # (The file ships as a blank template; once you fill it, don't push it to a public repo.)
@@ -17,6 +18,7 @@ campaigns/*
 .DS_Store
 **/.DS_Store
 .vscode/
+.claude/settings.local.json
 
 # --- Node (only if you later add scripts) ---
 node_modules/

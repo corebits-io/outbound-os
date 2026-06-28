@@ -26,6 +26,7 @@ Inputs the user fills in (the "brain"):
 - `02-personas.md` — the roles/titles to target and what each cares about.
 - `03-value-prop-and-messaging.md` — the core value prop, proof, and messaging angles that have worked before.
 - `04-fit-examples.md` — example good-fit and bad-fit accounts. This is how you learn the niche.
+- `winning-emails.md` — 3–5 of your best-performing emails; the copy skill learns your voice from them.
 
 Working folders you populate:
 - `accounts/` — sourced + qualified companies (one `accounts.csv`, plus optional per-account notes).
@@ -33,6 +34,12 @@ Working folders you populate:
 - `research/` — per-account and cross-account research notes, patterns, intent signals.
 - `sequences/` — the written email sequence(s).
 - `reports/` — performance pulls and your improvement recommendations.
+
+---
+
+## Skills & knowledge-base
+- The pipeline is exposed as **12 skills** in `.claude/skills/` — type `/` to run any (`/source-accounts`, `/pick-person`, …). Each skill follows the matching `playbooks/` file; `master-build-prompt.md` runs them in order.
+- `knowledge-base/` holds the how/why context (system overview, deliverability, swipe files, glossary, scaling-as-a-service). `reference/` holds technical notes (APIs, install, infra, workflow).
 
 ---
 
@@ -81,7 +88,7 @@ The user can change mode any time with plain words: "autopilot this stage" (run 
 
 - Secret keys live in `.env` (never commit this file, never print full keys). The template is `.env.example`.
 - API details and exact endpoints: `reference/apis.md`. **Always re-read the live docs linked there before writing integration code** — these APIs change.
-- Current stack: **Instantly** (email sequencing) + **BetterContact / Prospeo / Findymail** (enrichment). If the user later adds Smartlead, LinkedIn tools, or a phone API, add a playbook rather than hardcoding.
+- Current stack (the 4 tools): **Claude Code** (the brain) · **Apify** (sourcing) · **BetterContact / Findymail / Prospeo** (enrichment) · **Instantly / Smartlead** (the sequencer). Add LinkedIn/phone tools later via a new skill + a `reference/apis.md` section rather than hardcoding.
 - Prefer free/public data and built-in web search before any paid call.
 
 ## Working style

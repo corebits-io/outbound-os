@@ -15,8 +15,10 @@ Think of this folder as the **"brain"** from the post. You feed it the offer, it
 - **`CLAUDE.md`** — The master instruction file. Claude Code reads this automatically every time it opens this folder. It's the "always-on rules" that tell Claude how to behave. You rarely edit this.
 - **`master-build-prompt.md`** — The single message you paste into Claude Code the very first time, to wake the system up. Start here.
 - **`campaigns/`** — One folder per client or offer. Copy `_TEMPLATE` to start a new one.
+- **`.claude/skills/`** — The **12 skills**. Type `/` in Claude Code to run any (`/source-accounts`, `/pick-person`, …), or just ask. Each follows the matching playbook.
 - **`playbooks/`** — Step-by-step instructions for each stage (sourcing, picking the person, research, enrichment, writing, sending, improving). Claude follows these so the output is consistent every time.
-- **`reference/`** — Technical notes: how your APIs work, and the full pipeline at a glance.
+- **`reference/`** — Technical notes: API endpoints, install, sending setup, and the pipeline at a glance.
+- **`knowledge-base/`** — The context: how it all fits together, deliverability, swipe-files, a glossary, and running it as a service.
 - **`.env.example`** — A template for your secret keys (Instantly, BetterContact, etc.). You copy it to `.env` and paste your real keys in. *(An **API key** is just a password that lets your system log into another tool automatically — same idea as pasting a key into Clay or Instantly settings.)*
 
 ---

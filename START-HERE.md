@@ -20,6 +20,8 @@ This is the ordered, do-this-then-that guide. Three phases:
 
 So the kit covers all five steps in your post, plus the send + improve loop. Good to go.
 
+*(It's now also built as **12 invokable skills** in `.claude/skills/` — matching the "12+ skills" post — plus a `knowledge-base/` of context docs and the 4-tool stack: Claude Code · Apify · BetterContact · Instantly/Smartlead.)*
+
 ---
 
 # PHASE 1 — Run it yourself
